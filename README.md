@@ -1,5 +1,3 @@
-# BRP-Main
-R Foundational Programming Techniques
 # Basic R Programming 
 The scope includes creating Foundational knowledge about R programming with an intention to solve statistical problem solving. There are two main sections. First part covers basic R knowledge to solve statistics and second part covers Data Visualization with ggplot2 package.
 
