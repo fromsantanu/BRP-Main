@@ -11,6 +11,12 @@ The scope includes creating Foundational knowledge about R programming with an i
 - [Chapter 04 - Matrix Data Structures](https://github.com/fromsantanu/BRP-Ch-04-Matrix) : Matrix data structures.
 - [Chapter 05 - Data frames](https://github.com/fromsantanu/BRP-Ch-05-DataFrames) : Description of Data frames.
 - [Chapter 06 - Array Data Structures](https://github.com/fromsantanu/BRP-Ch-06-Arrays) : Array data structures.
+- [Chapter 07 - Decision Structures](https://github.com/fromsantanu/BRP-Ch-07-DecisionStructures) : Decision Making Constructs.
+- [Chapter 08 - Repetitive Constructs](https://github.com/fromsantanu/BRP-Ch-08-RepetitiveConstructs) : Repetitive Constructs using looping structures.
+- [Chapter 09 - Defining Functions](https://github.com/fromsantanu/BRP-Ch-09-DefiningFunctions) : Defining Functions.
+- [Chapter 10 - Packages](https://github.com/fromsantanu/BRP-Ch-09-UnderstandingPackages) : Understanding Packages.
+- [Chapter 11 - List of Important Packages](https://github.com/fromsantanu/BRP-Ch-09-ListOfImportantPackages) : List of important packages to know.
+
 ### Specialized Packages
 - [GGPlot2 Visualization](https://github.com/fromsantanu/#)  :How to use GGPlot2 package for professional level visualization.
 
