@@ -6,7 +6,7 @@ The scope includes creating Foundational knowledge about R programming with an i
 ## Key Sections
 ### Foundational Techniques
 - [Chapter 01 - Fundamental Data Types](https://github.com/fromsantanu/BRP-Ch-01-DataTypes) : The fundamental data types.
-- [Chapter 02 - Vectors](https://github.com/fromsantanu/BRP-Ch-02-Vectors) : Vectorr data structures.
+- [Chapter 02 - Vector Data Structures](https://github.com/fromsantanu/BRP-Ch-02-Vectors) : Vector data structures.
 ### Specialized Packages
 - [GGPlot2 Visualization](https://github.com/fromsantanu/#)  :How to use GGPlot2 package for professional level visualization.
 
