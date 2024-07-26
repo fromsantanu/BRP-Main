@@ -21,7 +21,7 @@ The scope includes creating Foundational knowledge about R programming with an i
 - [**dplyr** Data Manipulation](https://github.com/fromsantanu/#)  :How to use dplyr package for easy data manipulation.
 - [**ggplot2** Visualization](https://github.com/fromsantanu/#)  :How to use ggplot2 package for professional level visualization.
 - [**lubridate** Date Manipulation](https://github.com/fromsantanu/#)  :How to use lubridate package for data handling.
-- [**plotly** Sophisticated Caharts](https://github.com/fromsantanu/#)  :How to use plotly package for easy data visualization.
+- [**plotly** Sophisticated Charts](https://github.com/fromsantanu/#)  :How to use plotly package for easy data visualization.
 - [**caret** Regression Analysis](https://github.com/fromsantanu/#)  :How to use caret package for performing regression analysis.
 - [**stats** Staistical Functions](https://github.com/fromsantanu/#)  :How to use stats package for base statistical functions.
 - [**zoo** Time Series](https://github.com/fromsantanu/#)  :How to use zoo package for time series analysis.
