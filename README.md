@@ -4,7 +4,10 @@ R Foundational Programming Techniques
 The scope includes creating Foundational knowledge about R programming with an intention to solve statistical problem solving. There are two main sections. First part covers basic R knowledge to solve statistics and second part covers Data Visualization with ggplot2 package.
 
 ## Key Sections
-- [R Programming Basics](https://github.com/fromsantanu/#)  : Starting concepts on R programming.
+### Foundational Techniques
+- [Chapter 01 - Fundamental Data Types](https://github.com/fromsantanu/BRP-Ch-01-DataTypes) : The fundamental data types.
+- [Chapter 02 - Vectors](https://github.com/fromsantanu/BRP-Ch-02-Vectors) : Vectorr data structures.
+### Specialized Packages
 - [GGPlot2 Visualization](https://github.com/fromsantanu/#)  :How to use GGPlot2 package for professional level visualization.
 
 ## Watch the Intro 
