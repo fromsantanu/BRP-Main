@@ -13,7 +13,7 @@ The scope includes creating Foundational knowledge about R programming with an i
 - [**Chapter 08** - Repetitive Constructs](https://github.com/fromsantanu/BRP-Ch-08-RepetitiveConstructs) : Repetitive Constructs using looping structures.
 - [**Chapter 09** - Defining Functions](https://github.com/fromsantanu/BRP-Ch-09-DefiningFunctions) : Defining Functions.
 - [**Chapter 10** - Dealing with Objects](https://github.com/fromsantanu/BRP-Ch-10-DealingWithObjets): Dealing with Objects and refering them in programs.
-- [**Chapter 11** - Packages](https://github.com/fromsantanu/BRP-Ch-11-UnderstandingPackages) : Understanding Packages.
+- [**Chapter 11** - Understanding Packages](https://github.com/fromsantanu/BRP-Ch-11-UnderstandingPackages) : Understanding Packages.
 - [**Chapter 12** - List of Important Packages](https://github.com/fromsantanu/BRP-Ch-12-ListOfImportantPackages) : List of important packages to know.
 
 ### Specialized Packages
