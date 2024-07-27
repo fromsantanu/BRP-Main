@@ -16,14 +16,14 @@ The scope includes creating Foundational knowledge about R programming with an i
 - [Chapter 11 - List of Important Packages](https://github.com/fromsantanu/BRP-Ch-09-ListOfImportantPackages) : List of important packages to know.
 
 ### Specialized Packages
-- [**dplyr** Data Manipulation](https://github.com/fromsantanu/#)  :How to use dplyr package for easy data manipulation.
-- [**ggplot2** Visualization](https://github.com/fromsantanu/#)  :How to use ggplot2 package for professional level visualization.
-- [**lubridate** Date Manipulation](https://github.com/fromsantanu/#)  :How to use lubridate package for data handling.
-- [**plotly** Sophisticated Charts](https://github.com/fromsantanu/#)  :How to use plotly package for easy data visualization.
-- [**caret** Regression Analysis](https://github.com/fromsantanu/#)  :How to use caret package for performing regression analysis.
-- [**stats** Staistical Functions](https://github.com/fromsantanu/#)  :How to use stats package for base statistical functions.
-- [**zoo** Time Series](https://github.com/fromsantanu/#)  :How to use zoo package for time series analysis.
-- [**survival** Survival Analysis](https://github.com/fromsantanu/#)  :How to use survival package for doing survival analysis.
+- [**dplyr** for data manipulation and organizing](https://github.com/fromsantanu/#)  :How to use dplyr package for easy data manipulation.
+- [**ggplot2** for professional level visualization charts](https://github.com/fromsantanu/#)  :How to use ggplot2 package for professional level visualization.
+- [**lubridate** for date manipulation in data](https://github.com/fromsantanu/#)  :How to use lubridate package for data handling.
+- [**plotly** for generating sophisticated charts](https://github.com/fromsantanu/#)  :How to use plotly package for easy data visualization.
+- [**caret** for conducting regression analysis](https://github.com/fromsantanu/#)  :How to use caret package for performing regression analysis.
+- [**stats** for specialized staistical functions](https://github.com/fromsantanu/#)  :How to use stats package for base and specialized statistical functions.
+- [**zoo** for conducting time series analysis](https://github.com/fromsantanu/#)  :How to use zoo package for time series analysis.
+- [**survival** for conducting survival analysis](https://github.com/fromsantanu/#)  :How to use survival package for doing survival analysis.
 
 ## Watch the Intro 
 [![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd)
