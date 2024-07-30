@@ -1,4 +1,4 @@
-# Basic R Programming ![HitCount](https://hits.dwyl.com/fromsantanu/BRP-Main.svg)
+# Basic R Programming   ![HitCount](https://hits.dwyl.com/fromsantanu/BRP-Main.svg)
 The scope includes creating Foundational knowledge about R programming with an intention to solve statistical problem solving. There are two main sections. First part covers basic R knowledge to solve statistics and second part covers Data Visualization with ggplot2 package.
 
 ## Key Sections
