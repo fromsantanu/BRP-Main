@@ -19,6 +19,7 @@ print(my_matrix)
 [1,]    1    4    7
 [2,]    2    5    8
 [3,]    3    6    9
+```
 
 ## Accessing Matrix Elements
 You can access elements of a matrix using square brackets [ , ], specifying the row and column indices.
