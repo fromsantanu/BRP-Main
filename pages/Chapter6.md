@@ -120,7 +120,6 @@ print(combined_array)
 You can slice arrays to extract sub-arrays using indexing.
 
 ```r
-Copy code
 # Extract a sub-array
 sub_array <- my_array[1:2, 1:2, ]
 print(sub_array)
