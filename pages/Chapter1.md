@@ -1,4 +1,4 @@
-# Chapter 01 - Data Types in R
+# Chapter 01 - Fundamental Data Types in R
 
 In R, data types are fundamental elements used to store and manipulate different kinds of data. Here are some of the most commonly used data types in R, along with examples for each:
 
