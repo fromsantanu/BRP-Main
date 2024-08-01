@@ -4,7 +4,7 @@ The scope includes creating Foundational knowledge about R programming with an i
 
 ## Key Sections
 ### Foundational Techniques
-- [**Chapter 01** - Fundamental Data Types](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Chapter1.md) : The fundamental data types.
+- [**Chapter 01** - Data Types in R](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Chapter1.md) : The fundamental data types.
 - [**Chapter 02** - Vector Data Structures](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Chapter2.md) : Vector data structures.
 - [**Chapter 03** - List Data Structures](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Chapter3.md) : Vector data structures.
 - [**Chapter 04** - Matrix Data Structures](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Chapter4.md) : Matrix data structures.
