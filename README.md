@@ -18,14 +18,14 @@ The scope includes creating Foundational knowledge about R programming with an i
 - [**Chapter 12** - List of Important Packages](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Chapter12.md) 
 
 ### Specialized Packages
-- [**dplyr** for data manipulation and organizing](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Package1.md)  
-- [**ggplot2** for professional level visualization charts](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Package2.md)  
-- [**lubridate** for date manipulation in data](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Package3.md) 
-- [**plotly** for generating sophisticated charts](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Package4.md) 
-- [**caret** for conducting regression analysis](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Package5.md) 
-- [**stats** for specialized staistical functions](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Package6.md) 
-- [**zoo** for conducting time series analysis](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Package7.md)  
-- [**survival** for conducting survival analysis](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Package8.md) 
+- [**dplyr**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/dplyr-main.md)  
+- [**ggplot2**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2-main.md)  
+- [**lubridate**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/lubridate-main.md) 
+- [**plotly**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/plotly-main.md) 
+- [**caret**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/caret-main.md) 
+- [**stats**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats-main.md) 
+- [**zoo**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/zoo-main.md)  
+- [**survival**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/survival-main.md) 
 
 ## Watch the Intro 
 [![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd)
