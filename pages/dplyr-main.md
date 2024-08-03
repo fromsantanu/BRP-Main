@@ -19,7 +19,7 @@
 
 ## Joins and Relational Data
 - [Introduction to joins](#)
-- Inner join: inner_join()](#)
+- [Inner join: inner_join()](#)
 - [Left join: left_join()](#)
 - [Right join: right_join()](#)
 - [Full join: full_join()](#)
