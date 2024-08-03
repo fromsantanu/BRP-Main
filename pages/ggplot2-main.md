@@ -1,20 +1,20 @@
 # "ggplot2" package in R 
 
 ## Introduction to ggplot2
-Overview of ggplot2
-Installation and setup
+- [Overview of ggplot2]
+- [Installation and setup]
 
 ## Understanding the Grammar of Graphics
-The concept of the grammar of graphics
-Basic structure of a ggplot2 plot
+- [The concept of the grammar of graphics]
+- [Basic structure of a ggplot2 plot]
 
 ## Basic Plot Types
-Scatter plots: geom_point()
-Line plots: geom_line()
-Bar plots: geom_bar(), geom_col()
-Histograms: geom_histogram()
-Box plots: geom_boxplot()
-Violin plots: geom_violin()
+- [Scatter plots: geom_point()]
+- [Line plots: geom_line()]
+- [Bar plots: geom_bar(), geom_col()]
+- [Histograms: geom_histogram()]
+- [Box plots: geom_boxplot()]
+- [Violin plots: geom_violin()]
 
 ## Customizing Aesthetics
 Mapping aesthetics: color, size, shape, etc.
