@@ -1,4 +1,4 @@
-# dplyr package in R
+# "dplyr" package in R
 
 ## Introduction to dplyr
 - [Overview of dplyr](#)
