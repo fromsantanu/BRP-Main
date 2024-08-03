@@ -1,4 +1,4 @@
-# Basic R Programming   
+# Basic R Programming  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![HitCount](https://hits.dwyl.com/fromsantanu/BRP-Main.svg) <br>
 The scope includes creating Foundational knowledge about R programming with an intention to solve statistical problem solving. There are two main sections. First part covers basic R knowledge to solve statistics and second part covers Data Visualization with ggplot2 package.
 
