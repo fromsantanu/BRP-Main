@@ -58,7 +58,7 @@
 
 ## Best Practices and Performance
 - [Tips for writing efficient dplyr code](#)
-- [Benchmarking and optimizing dplyr operations]](#)
+- [Benchmarking and optimizing dplyr operations](#)
 
 ## Interfacing with Other Packages
 - [Using dplyr with ggplot2 for data visualization](#)
