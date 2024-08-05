@@ -1,58 +1,69 @@
-## zoo ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
+## survival ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)
 
-## Introduction to the zoo Package
-- [Overview of the zoo package](#)
+## Introduction to the survival Package
+- [Overview of the survival package](#)
 - [Installation and setup](#)
 
 ## Basic Concepts
-- [Time series objects in zoo](#)
-- [Creating zoo objects: zoo(), as.zoo()](#)
+- [Survival analysis and its applications](#)
+- [Key terminology in survival analysis](#)
 
-## Indexing and Subsetting
-- [Indexing zoo objects](#)
-- [Subsetting time series data](#)
+## Creating Survival Objects
+- [Surv() function: creating survival objects](#)
 
-## Merging and Binding
-- [Merging zoo objects: merge()](#)
-- [Binding zoo objects: cbind(), rbind()](#)
+## Kaplan-Meier Estimator
+- [Estimating survival curves: survfit()](#)
+- [Plotting Kaplan-Meier curves: plot.survfit()](#)
+- [Customizing Kaplan-Meier plots](#)
 
-## Data Transformation
-- [Applying functions over time series: rollapply(), aggregate()](#)
-- [Lagging and differencing: lag(), diff()](#)
+## Cox Proportional Hazards Model
+- [Fitting Cox models: coxph()](#)
+- [Interpreting Cox model results](#)
+- [Testing proportional hazards assumption: cox.zph()](#)
 
-## Handling Missing Values
-- [Identifying missing values: is.na.zoo()](#)
-- [Filling missing values: na.locf(), na.approx()](#)
+## Parametric Survival Models
+- [Fitting parametric models: survreg()](#)
+- [Common parametric distributions](#)
+- [Interpreting parametric model results](#)
 
-## Time Series Plotting
-- [Plotting zoo objects: plot.zoo()](#)
-- [Customizing time series plots](#)
+## Comparing Survival Curves
+- [Log-rank test: survdiff()](#)
+- [Other tests for comparing survival curves](#)
 
-## Advanced Time Series Operations
-- [Time series arithmetic](#)
-- [Window functions: window()](#)
+## Stratified Analysis
+- [Stratification in Cox models](#)
+- [Analyzing stratified data](#)
 
-## Date and Time Handling
-- [Working with dates and times](#)
-- [Converting date formats](#)
+## Handling Time-Dependent Covariates
+- [Including time-dependent covariates in Cox models](#)
+- [Advanced time-dependent analysis techniques](#)
 
-## Combining zoo with Other Packages
-- [Using zoo with dplyr and tidyr](#)
-- [Integrating zoo with ggplot2 for advanced plotting](#)
+## Recurrent Event Data
+- [Analyzing recurrent events](#)
+- [Models and methods for recurrent event data](#)
+
+## Survival Analysis with Competing Risks
+- [Competing risks models](#)
+- [Analyzing competing risks data](#)
+
+## Advanced Topics
+- [Multistate models](#)
+- [Joint models for longitudinal and survival data](#)
 
 ## Case Studies and Examples
-- [Real-world examples of time series analysis with zoo](#)
-- [Common time series tasks and their solutions](#)
+- [Real-world examples of survival analysis with survival](#)
+- [Common survival analysis tasks and their solutions](#)
 
 ## Best Practices and Performance
-- [Tips for efficient use of the zoo package](#)
+- [Tips for efficient use of the survival package](#)
 - [Performance tuning and optimization](#)
 
 ## Documentation and Resources
-- [Exploring the zoo package documentation](#)
-- [Useful resources and tutorials for learning zoo](#)
+- [Exploring the survival package documentation](#)
+- [Useful resources and tutorials for learning survival](#)
 
 ## Troubleshooting and Debugging
 - [Common errors and how to resolve them](#)
-- [Debugging zoo code](#)
+- [Debugging survival code](#)
+
 
