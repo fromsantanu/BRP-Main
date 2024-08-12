@@ -5,65 +5,65 @@
 - [Installation and setup (if necessary)](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter01.md)
 
 ## Descriptive Statistics
-- [Summary statistics: summary(), mean(), median(), sd(), var()](#)
-- [Frequency tables: table(), prop.table()](#)
-- [Five-number summary: fivenum()](#)
-- [Quantiles and percentiles: quantile()](#)
+- [Summary statistics: summary(), mean(), median(), sd(), var()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter02.md)
+- [Frequency tables: table(), prop.table()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter02.md)
+- [Five-number summary: fivenum()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter02.md)
+- [Quantiles and percentiles: quantile()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter02.md)
 
 ## Probability Distributions
-- [Common distributions: Normal, Binomial, Poisson, Exponential](#)
-- [Density functions: dnorm(), dbinom(), dpois(), dexp()](#)
-- [Cumulative distribution functions: pnorm(), pbinom(), ppois(), pexp()](#)
-- [Quantile functions: qnorm(), qbinom(), qpois(), qexp()](#)
-- [Random number generation: rnorm(), rbinom(), rpois(), rexp()](#)
+- [Common distributions: Normal, Binomial, Poisson, Exponential](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter03.md)
+- [Density functions: dnorm(), dbinom(), dpois(), dexp()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter03.md)
+- [Cumulative distribution functions: pnorm(), pbinom(), ppois(), pexp()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter03.md)
+- [Quantile functions: qnorm(), qbinom(), qpois(), qexp()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter03.md)
+- [Random number generation: rnorm(), rbinom(), rpois(), rexp()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter03.md)
 
 ## Hypothesis Testing
-- [t-tests: t.test()](#)
-- [ANOVA: aov(), anova()](#)
-- [Chi-square tests: chisq.test()](#)
-- [Proportion tests: prop.test()](#)
-- [Non-parametric tests: wilcox.test(), kruskal.test(), shapiro.test()](#)
+- [t-tests: t.test()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter04.md)
+- [ANOVA: aov(), anova()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter04.md)
+- [Chi-square tests: chisq.test()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter04.md)
+- [Proportion tests: prop.test()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter04.md)
+- [Non-parametric tests: wilcox.test(), kruskal.test(), shapiro.test()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter04.md)
 
 ## Correlation and Covariance
-- [Calculating correlation: cor()](#)
-- [Calculating covariance: cov()](#)
-- [Correlation tests: cor.test()](#)
+- [Calculating correlation: cor()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter05.md)
+- [Calculating covariance: cov()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter05.md)
+- [Correlation tests: cor.test()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter05.md)
 
 ## Linear Models
-- [Simple linear regression: lm()](#)
-- [Multiple linear regression: lm()](#)
-- [Model summary and diagnostics: summary(), plot()](#)
+- [Simple linear regression: lm()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter06.md)
+- [Multiple linear regression: lm()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter06.md)
+- [Model summary and diagnostics: summary(), plot()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter06.md)
 
 ## Generalized Linear Models
-- [Logistic regression: glm()](#)
-- [Poisson regression: glm()](#)
-- [Model fitting and diagnostics: summary(), anova()](#)
+- [Logistic regression: glm()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter07.md)
+- [Poisson regression: glm()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter07.md)
+- [Model fitting and diagnostics: summary(), anova()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter07.md)
 
 ## Analysis of Variance (ANOVA)
-- [One-way ANOVA: aov()](#)
-- [Two-way ANOVA: aov()](#)
-- [Post-hoc tests: TukeyHSD()](#)
+- [One-way ANOVA: aov()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter08.md)
+- [Two-way ANOVA: aov()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter08.md)
+- [Post-hoc tests: TukeyHSD()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter08.md)
 
 ## Time Series Analysis
-- [Creating and plotting time series: ts(), plot.ts()](#)
-- [Decomposing time series: decompose()](#)
-- [Autocorrelation and partial autocorrelation: acf(), pacf()](#)
-- [Fitting ARIMA models: arima(), auto.arima()](#)
-- [Forecasting: predict()](#)
+- [Creating and plotting time series: ts(), plot.ts()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter09.md)
+- [Decomposing time series: decompose()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter09.md)
+- [Autocorrelation and partial autocorrelation: acf(), pacf()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter09.md)
+- [Fitting ARIMA models: arima(), auto.arima()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter09.md)
+- [Forecasting: predict()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter09.md)
 
 ## Survival Analysis
-- [Kaplan-Meier estimator: survfit()](#)
-- [Cox proportional hazards model: coxph()](#)
-- [Log-rank test: survdiff()](#)
+- [Kaplan-Meier estimator: survfit()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter10.md)
+- [Cox proportional hazards model: coxph()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter10.md)
+- [Log-rank test: survdiff()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter10.md)
 
 ## Multivariate Analysis
-- [Principal Component Analysis (PCA): prcomp(), princomp()](#)
-- [Factor Analysis: factanal()](#)
-- [Multidimensional Scaling (MDS): cmdscale()](#)
+- [Principal Component Analysis (PCA): prcomp(), princomp()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter11.md)
+- [Factor Analysis: factanal()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter11.md)
+- [Multidimensional Scaling (MDS): cmdscale()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter11.md)
 
 ## Resampling Techniques
-- [Bootstrap methods: boot()](#)
-- [Cross-validation: cv.glm()](#)
+- [Bootstrap methods: boot()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter12.md)
+- [Cross-validation: cv.glm()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter12.md)
 
 ## Cluster Analysis
 - [Hierarchical clustering: hclust()](#)
