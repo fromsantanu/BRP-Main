@@ -55,27 +55,27 @@
 - [Adding custom annotations and shapes: annotate(), geom_segment(), geom_rect()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter12.md)
 
 ## Interactive Plots with ggplot2
-- [Introduction to interactive plots](#)
-- [Using plotly with ggplot2](#)
+- [Introduction to interactive plots](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter13.md)
+- [Using plotly with ggplot2](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter13.md)
 
 ## Saving and Exporting Plots
-- [Saving plots to files: ggsave()](#)
-- [Exporting plots in different formats (PNG, PDF, SVG, etc.)](#)
+- [Saving plots to files: ggsave()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter14.md)
+- [Exporting plots in different formats (PNG, PDF, SVG, etc.)](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter14.md)
 
 ## Extensions and Additional Packages
-- [Overview of ggplot2 extensions](#)
-- [Using ggthemes for additional themes](#)
-- [Using ggrepel for improved text labels](#)
-- [Using ggridges for ridge plots](#)
+- [Overview of ggplot2 extensions](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter15.md)
+- [Using ggthemes for additional themes](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter15.md)
+- [Using ggrepel for improved text labels](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter15.md)
+- [Using ggridges for ridge plots](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter15.md)
 
 ## Case Studies and Examples
-- [Real-world examples of data visualization with ggplot2](#)
-- [Common data visualization tasks and their solutions](#)
+- [Real-world examples of data visualization with ggplot2](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter16.md)
+- [Common data visualization tasks and their solutions](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter16.md)
 
 ## Best Practices and Performance
-- [Tips for creating effective and efficient ggplot2 visualizations](#)
-- [Handling large datasets with ggplot2](#)
+- [Tips for creating effective and efficient ggplot2 visualizations](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter17.md)
+- [Handling large datasets with ggplot2](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter17.md)
 
 ## Troubleshooting and Debugging
-- [Common errors and how to resolve them](#)
-- [Debugging ggplot2 code](#)
+- [Common errors and how to resolve them](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter18.md)
+- [Debugging ggplot2 code](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter18.md)
