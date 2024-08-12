@@ -66,28 +66,28 @@
 - [Cross-validation: cv.glm()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter12.md)
 
 ## Cluster Analysis
-- [Hierarchical clustering: hclust()](#)
-- [k-means clustering: kmeans()](#)
-- [Cluster validation: silhouette()](#)
+- [Hierarchical clustering: hclust()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter13.md)
+- [k-means clustering: kmeans()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter13.md)
+- [Cluster validation: silhouette()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter13.md)
 
 ## Special Functions and Utilities
-- [Probability density functions](#)
-- [Random number generators](#)
-- [Special mathematical functions: choose(), gamma(), lgamma()](#)
+- [Probability density functions](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter14.md)
+- [Random number generators](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter14.md)
+- [Special mathematical functions: choose(), gamma(), lgamma()](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter14.md)
 
 ## Case Studies and Examples
-- [Real-world examples of statistical analysis with the stats package](#)
-- [Common statistical tasks and their solutions](#)
+- [Real-world examples of statistical analysis with the stats package](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter15.md)
+- [Common statistical tasks and their solutions](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter15.md)
 
 ## Best Practices and Performance
-- [Tips for efficient and effective use of the stats package](#)
-- [Performance tuning and optimization](#)
+- [Tips for efficient and effective use of the stats package](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter16.md)
+- [Performance tuning and optimization](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter16.md)
 
 ## Documentation and Resources
-- [Exploring the stats package documentation](#)
-- [Useful resources and tutorials for learning the stats package](#)
+- [Exploring the stats package documentation](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter17.md)
+- [Useful resources and tutorials for learning the stats package](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter17.md)
 
 ## Troubleshooting and Debugging
-- [Common errors and how to resolve them](#)
-- [Debugging stats code](#)
+- [Common errors and how to resolve them](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter18.md)
+- [Debugging stats code](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter18.md)
 
