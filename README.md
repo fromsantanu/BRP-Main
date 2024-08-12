@@ -22,8 +22,8 @@ The scope includes creating Foundational knowledge about R programming with an i
 - [**dplyr**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/dplyr-main.md)  
 - [**ggplot2**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2-main.md)  
 - [**lubridate**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/lubridate-main.md) 
-- [**plotly**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/plotly-main.md) 
 - [**caret**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/caret-main.md) 
+- [**plotly**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/plotly-main.md) 
 - [**zoo**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/zoo-main.md)  
 - [**survival**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/survival-main.md) 
 
