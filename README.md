@@ -18,12 +18,12 @@ The scope includes creating Foundational knowledge about R programming with an i
 - [**Chapter 12** - List of Important Packages](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Chapter12.md) 
 
 ### Specialized Packages
+- [**stats**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats-main.md) 
 - [**dplyr**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/dplyr-main.md)  
 - [**ggplot2**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2-main.md)  
 - [**lubridate**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/lubridate-main.md) 
 - [**plotly**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/plotly-main.md) 
 - [**caret**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/caret-main.md) 
-- [**stats**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats-main.md) 
 - [**zoo**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/zoo-main.md)  
 - [**survival**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/survival-main.md) 
 
