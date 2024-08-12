@@ -1,8 +1,8 @@
 ## stats ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
 ## Introduction to the stats Package
-- [Overview of the stats package](#)
-- [Installation and setup (if necessary)](#)
+- [Overview of the stats package](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter01.md)
+- [Installation and setup (if necessary)](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter01.md)
 
 ## Descriptive Statistics
 - [Summary statistics: summary(), mean(), median(), sd(), var()](#)
