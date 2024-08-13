@@ -1,4 +1,4 @@
-# "dplyr" package in R ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
+# "dplyr" package in R 
 
 ## Introduction to dplyr
 - [Overview of dplyr](https://github.com/fromsantanu/BRP-Main/blob/main/pages/dplyr/Chapter01.md)
