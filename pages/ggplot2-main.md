@@ -1,5 +1,4 @@
-# "ggplot2" package in R ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000) 
-
+# "ggplot2" package in R 
 ## Introduction to ggplot2
 - [Overview of ggplot2](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter01.md)
 - [Installation and setup](https://github.com/fromsantanu/BRP-Main/blob/main/pages/ggplot2/Chapter01.md)
