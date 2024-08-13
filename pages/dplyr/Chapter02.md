@@ -1,4 +1,4 @@
-# Core Verbs in dplyr
+# Chapter : Core Verbs in dplyr
 
 The core verbs of `dplyr` are designed to make data manipulation intuitive and efficient. These verbs allow you to perform common data wrangling tasks such as subsetting rows, selecting columns, creating new variables, reordering rows, summarizing data, and grouping data. Below are examples of how to use each of these core verbs.
 
