@@ -1,4 +1,4 @@
-# lubridate ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
+# lubridate 
 
 ## Introduction to lubridate
 - [Overview of lubridate](https://github.com/fromsantanu/BRP-Main/blob/main/pages/lubridate/Chapter01.md)
