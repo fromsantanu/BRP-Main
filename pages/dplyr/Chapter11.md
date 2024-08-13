@@ -1,13 +1,16 @@
-Case Studies and Examples 
-In this chapter, we will explore real-world examples of data manipulation using dplyr. These examples will demonstrate how to handle common data manipulation tasks that you might encounter in your day-to-day data analysis work. By walking through these case studies, you'll gain a deeper understanding of how to use dplyr effectively.
+# Chapter : Case Studies and Examples
 
-Case Study 1: Analyzing Sales Data
-Scenario:
+In this chapter, we will explore real-world examples of data manipulation using `dplyr`. These examples will demonstrate how to handle common data manipulation tasks that you might encounter in your day-to-day data analysis work. By walking through these case studies, you'll gain a deeper understanding of how to use `dplyr` effectively.
+
+## Case Study 1: Analyzing Sales Data
+
+#### Scenario:
+
 You work for a retail company and need to analyze sales data to understand trends and performance across different regions and product categories.
 
-Data:
-r
-Copy code
+#### Data:
+
+```r
 # Load necessary packages
 library(dplyr)
 
@@ -21,11 +24,13 @@ sales_data <- data.frame(
 
 # View the sales data
 print(sales_data)
-Task 1: Summarize Total Sales by Region and Product
+```
+
+#### Task 1: Summarize Total Sales by Region and Product
+
 You want to calculate the total sales for each region and product.
 
-r
-Copy code
+```r
 # Summarize total sales by region and product
 total_sales <- sales_data %>%
   group_by(region, product) %>%
@@ -33,13 +38,15 @@ total_sales <- sales_data %>%
 
 # View the summarized data
 print(total_sales)
-This code groups the data by region and product and calculates the total sales for each combination.
+```
 
-Task 2: Calculate the Percentage of Total Sales by Region
+This code groups the data by `region` and `product` and calculates the total sales for each combination.
+
+#### Task 2: Calculate the Percentage of Total Sales by Region
+
 You want to understand what percentage of total sales each region contributes.
 
-r
-Copy code
+```r
 # Calculate the total sales across all regions
 total_sales_all <- sum(sales_data$sales)
 
@@ -51,13 +58,15 @@ sales_percentage <- sales_data %>%
 
 # View the percentage of total sales by region
 print(sales_percentage)
+```
+
 This code calculates the total sales for each region and then computes the percentage of the overall sales that each region contributes.
 
-Task 3: Identify Top-Performing Products by Region
+#### Task 3: Identify Top-Performing Products by Region
+
 You want to find the top-performing product in each region based on sales.
 
-r
-Copy code
+```r
 # Identify the top-performing product by region
 top_products <- sales_data %>%
   group_by(region, product) %>%
@@ -67,15 +76,19 @@ top_products <- sales_data %>%
 
 # View the top-performing products by region
 print(top_products)
+```
+
 This code calculates total sales for each product within each region, orders them by sales, and selects the top product for each region.
 
-Case Study 2: Customer Churn Analysis
-Scenario:
+## Case Study 2: Customer Churn Analysis
+
+#### Scenario:
+
 You work for a telecommunications company and need to analyze customer data to understand churn rates and identify patterns among customers who left the service.
 
-Data:
-r
-Copy code
+#### Data:
+
+```r
 # Create a sample customer data frame
 customer_data <- data.frame(
   customer_id = 1:10,
@@ -86,24 +99,28 @@ customer_data <- data.frame(
 
 # View the customer data
 print(customer_data)
-Task 1: Calculate the Churn Rate
+```
+
+#### Task 1: Calculate the Churn Rate
+
 You need to calculate the overall churn rate among customers.
 
-r
-Copy code
+```r
 # Calculate the churn rate
 churn_rate <- customer_data %>%
   summarise(churn_rate = mean(churn) * 100)
 
 # View the churn rate
 print(churn_rate)
-This code calculates the churn rate by taking the mean of the churn column (where TRUE represents churned customers).
+```
 
-Task 2: Analyze Churn by Age Group
+This code calculates the churn rate by taking the mean of the `churn` column (where `TRUE` represents churned customers).
+
+#### Task 2: Analyze Churn by Age Group
+
 You want to understand how churn rates vary by age group.
 
-r
-Copy code
+```r
 # Define age groups
 customer_data <- customer_data %>%
   mutate(age_group = case_when(
@@ -120,28 +137,34 @@ churn_by_age <- customer_data %>%
 
 # View churn rate by age group
 print(churn_by_age)
+```
+
 This code creates age groups and then calculates the churn rate for each group.
 
-Task 3: Identify High-Risk Customers
+#### Task 3: Identify High-Risk Customers
+
 You want to identify customers who are at high risk of churning, defined as customers with a tenure of less than 12 months.
 
-r
-Copy code
+```r
 # Identify high-risk customers
 high_risk_customers <- customer_data %>%
   filter(tenure < 12)
 
 # View high-risk customers
 print(high_risk_customers)
+```
+
 This code filters the data to find customers with a tenure of less than 12 months, identifying them as high risk for churn.
 
-Case Study 3: Financial Data Analysis
-Scenario:
+## Case Study 3: Financial Data Analysis
+
+#### Scenario:
+
 You work for a financial services company and need to analyze transactional data to identify trends and key metrics.
 
-Data:
-r
-Copy code
+#### Data:
+
+```r
 # Create a sample transactions data frame
 transactions_data <- data.frame(
   transaction_id = 1:10,
@@ -152,11 +175,13 @@ transactions_data <- data.frame(
 
 # View the transactions data
 print(transactions_data)
-Task 1: Calculate Total Transaction Amount by Customer
+```
+
+#### Task 1: Calculate Total Transaction Amount by Customer
+
 You need to calculate the total transaction amount for each customer.
 
-r
-Copy code
+```r
 # Calculate total transaction amount by customer
 total_by_customer <- transactions_data %>%
   group_by(customer_id) %>%
@@ -164,26 +189,30 @@ total_by_customer <- transactions_data %>%
 
 # View the total transaction amount by customer
 print(total_by_customer)
-This code groups the data by customer_id and calculates the total transaction amount for each customer.
+```
 
-Task 2: Identify Transactions Above a Certain Threshold
+This code groups the data by `customer_id` and calculates the total transaction amount for each customer.
+
+#### Task 2: Identify Transactions Above a Certain Threshold
+
 You want to find all transactions where the amount is above a specific threshold, such as $200.
 
-r
-Copy code
+```r
 # Filter transactions above the threshold
 high_value_transactions <- transactions_data %>%
   filter(amount > 200)
 
 # View high-value transactions
 print(high_value_transactions)
+```
+
 This code filters the data to include only transactions where the amount exceeds $200.
 
-Task 3: Calculate Daily Transaction Volume
+#### Task 3: Calculate Daily Transaction Volume
+
 You need to calculate the number of transactions that occurred each day.
 
-r
-Copy code
+```r
 # Calculate daily transaction volume
 daily_volume <- transactions_data %>%
   group_by(transaction_date) %>%
@@ -191,6 +220,10 @@ daily_volume <- transactions_data %>%
 
 # View daily transaction volume
 print(daily_volume)
+```
+
 This code calculates the number of transactions that occurred on each date.
 
-This chapter provides real-world examples of data manipulation using dplyr. These case studies demonstrate how to handle common tasks such as summarizing data, calculating percentages, filtering rows, and identifying patterns. By following these examples, you can apply similar techniques to your own data analysis projects, making your work more efficient and insightful.
+---
+
+This chapter provides real-world examples of data manipulation using `dplyr`. These case studies demonstrate how to handle common tasks such as summarizing data, calculating percentages, filtering rows, and identifying patterns. By following these examples, you can apply similar techniques to your own data analysis projects, making your work more efficient and insightful.
