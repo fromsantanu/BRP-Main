@@ -1,5 +1,4 @@
-## stats ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
-
+## stats 
 ## Introduction to the stats Package
 - [Overview of the stats package](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter01.md)
 - [Installation and setup (if necessary)](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats/Chapter01.md)
