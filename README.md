@@ -18,7 +18,7 @@ The scope includes creating Foundational knowledge about R programming with an i
 - [**Chapter 12** - List of Important Packages](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Chapter12.md)
 
 ### R Data Visualization Techniques
-- **In Vanilla R**
+- **In Base R**
   - [Line Plot](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/vanila/p01.md)
   - [Bar Plot](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/vanila/p02.md)
   - [Pie Chart](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/vanila/p03.md)
