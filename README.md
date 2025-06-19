@@ -32,7 +32,7 @@ The scope includes creating Foundational knowledge about R programming with an i
   - [Bar Plot](#)
   - [Pie Chart](#)
   - [Histogram](#)
-  - [Scatter Plot]
+  - [Scatter Plot](#)
   - [Box Plots](#)
   - [Heatmaps](#)
 
