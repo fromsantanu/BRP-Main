@@ -24,7 +24,7 @@ The scope includes creating Foundational knowledge about R programming with an i
   - [Pie Chart](#)
   - [Histogram](#)
   - [Scatter Plot](#)
-  - ]Box Plots](#)
+  - [Box Plots](#)
   - [Heatmaps](#)
 
 - **Using GGPLOT Package**
