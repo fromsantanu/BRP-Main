@@ -15,7 +15,26 @@ The scope includes creating Foundational knowledge about R programming with an i
 - [**Chapter 09** - Defining Functions](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Chapter9.md) 
 - [**Chapter 10** - Dealing with Objects](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Chapter10.md)
 - [**Chapter 11** - Understanding Packages](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Chapter11.md) 
-- [**Chapter 12** - List of Important Packages](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Chapter12.md) 
+- [**Chapter 12** - List of Important Packages](https://github.com/fromsantanu/BRP-Main/blob/main/pages/Chapter12.md)
+
+### R Data Visualization Techniques
+- **In Vanila R**
+  - [Line Plot](#)
+  - [Bar Plot](#)
+  - [Pie Chart](#)
+  - [Histogram](#)
+  - [Scatter Plot](#)
+  - ]Box Plots](#)
+  - [Heatmaps](#)
+
+- **Using GGPLOT Package**
+  - [Line Plot](#)
+  - [Bar Plot](#)
+  - [Pie Chart](#)
+  - [Histogram](#)
+  - [Scatter Plot]
+  - [Box Plots](#)
+  - [Heatmaps](#)
 
 ### Specialized Packages
 - [**stats**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats-main.md) 
