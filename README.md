@@ -19,13 +19,13 @@ The scope includes creating Foundational knowledge about R programming with an i
 
 ### R Data Visualization Techniques
 - **In Vanilla R**
-  - [Line Plot](#)
-  - [Bar Plot](#)
-  - [Pie Chart](#)
-  - [Histogram](#)
-  - [Scatter Plot](#)
-  - [Box Plots](#)
-  - [Heatmaps](#)
+  - [Line Plot](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/vanila/p01.md)
+  - [Bar Plot](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/vanila/p02.md)
+  - [Pie Chart](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/vanila/p03.md)
+  - [Histogram](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/vanila/p04.md)
+  - [Scatter Plot](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/vanila/p05.md)
+  - [Box Plots](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/vanila/p06.md)
+  - [Heatmaps](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/vanila/p07.md)
 
 - **Using GGPLOT Package**
   - [Line Plot](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/ggplot/p01.md)
