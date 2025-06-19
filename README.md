@@ -28,13 +28,13 @@ The scope includes creating Foundational knowledge about R programming with an i
   - [Heatmaps](#)
 
 - **Using GGPLOT Package**
-  - [Line Plot](#)
-  - [Bar Plot](#)
-  - [Pie Chart](#)
-  - [Histogram](#)
-  - [Scatter Plot](#)
-  - [Box Plots](#)
-  - [Heatmaps](#)
+  - [Line Plot](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/ggplot/p01.md)
+  - [Bar Plot](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/ggplot/p02.md)
+  - [Pie Chart](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/ggplot/p03.md)
+  - [Histogram](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/ggplot/p04.md)
+  - [Scatter Plot](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/ggplot/p05.md)
+  - [Box Plots](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/ggplot/p06.md)
+  - [Heatmaps](https://github.com/fromsantanu/BRP-Main/blob/main/pages/visualization/ggplot/p07.md)
 
 ### Specialized Packages
 - [**stats**](https://github.com/fromsantanu/BRP-Main/blob/main/pages/stats-main.md) 
